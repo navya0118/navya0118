@@ -1,3 +1,8 @@
+![Git Hub_Banner](https://github.com/navya0118/navya0118/assets/143325467/d8e808eb-6b60-49d1-9d6b-aba1ac86fabb)
+
+
+
+
 <h1 align="center">Hi 👋, I'm Navya Muraharikar</h1>
 <h3 align="center">Exploring Finance as a Data Analyst!</h3>
 
